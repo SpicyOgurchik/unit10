@@ -1,0 +1,4 @@
+Let creates block scope, can redeclare var, but cant redeclare let;
+Const creates block scope, can redeclare and reassign var, but cant redeclare const;
+Can reassign let, but cant reassign const;
+Move declaration of the functions and classes to the top, before execution of the code.
